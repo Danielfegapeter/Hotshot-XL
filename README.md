@@ -19,7 +19,7 @@ Hotshot-XL is compatible with SDXL ControlNet to make GIFs in the composition/la
 
 Hotshot-XL was trained to generate 1 second GIFs at 8 FPS.
 
-Hotshot-XL was trained on various aspect ratios. For best results with the base Hotshot-XL model, we recommend using it with an SDXL model that has been fine-tuned with 512x512 images. You can find an SDXL model we fine-tuned for 512x512 resolutions [here](https://github.com/naturalsynthetics/hotshot-xl-private/blob/main/README.md#text-to-gif-with-personalized-loras).
+Hotshot-XL was trained on various aspect ratios. For best results with the base Hotshot-XL model, we recommend using it with an SDXL model that has been fine-tuned with 512x512 images. You can find an SDXL model we fine-tuned for 512x512 resolutions [here](https://github.com/naturalsynthetics/hotshot-xl/blob/main/README.md#text-to-gif-with-personalized-loras).
 
 
 
