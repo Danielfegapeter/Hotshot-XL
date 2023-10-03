@@ -31,7 +31,7 @@ Source code is available at https://github.com/hotshotco/hotshot-xl.
 # Model Description
 - **Developed by**: Natural Synthetics Inc.
 - **Model type**: Diffusion-based text-to-GIF generative model
-- **License**: CreativeML Open RAIL++-M License
+- **License**: [CreativeML Open RAIL++-M License](https://huggingface.co/hotshotco/Hotshot-XL/raw/main/LICENSE.md)
 - **Model Description**: This is a model that can be used to generate and modify GIFs based on text prompts. It is a Latent Diffusion Model that uses two fixed, pretrained text encoders (OpenCLIP-ViT/G and CLIP-ViT/L).
 - **Resources for more information**: Check out our [GitHub Repository](https://github.com/hotshotco/hotshot-xl).
 
