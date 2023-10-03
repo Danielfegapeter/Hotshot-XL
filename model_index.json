@@ -1,0 +1,33 @@
+{
+  "_class_name": "HotshotXLPipeline",
+  "_diffusers_version": "0.21.4",
+  "force_zeros_for_empty_prompt": true,
+  "scheduler": [
+    "diffusers",
+    "EulerAncestralDiscreteScheduler"
+  ],
+  "text_encoder": [
+    "transformers",
+    "CLIPTextModel"
+  ],
+  "text_encoder_2": [
+    "transformers",
+    "CLIPTextModelWithProjection"
+  ],
+  "tokenizer": [
+    "transformers",
+    "CLIPTokenizer"
+  ],
+  "tokenizer_2": [
+    "transformers",
+    "CLIPTokenizer"
+  ],
+  "unet": [
+    "hotshot_xl",
+    "UNet3DConditionModel"
+  ],
+  "vae": [
+    "diffusers",
+    "AutoencoderKL"
+  ]
+}
