@@ -3,6 +3,7 @@ license: openrail++
 tags:
 - text-to-video
 - stable-diffusion
+library_name: diffusers
 ---
 
 ![image/gif](https://cdn-uploads.huggingface.co/production/uploads/637a6daf7ce76c3b83497ea2/ux_sZKB9snVPsKRT1TzfG.gif)
