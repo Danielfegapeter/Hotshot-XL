@@ -7,7 +7,7 @@ tags:
 
 ![image/gif](https://cdn-uploads.huggingface.co/production/uploads/637a6daf7ce76c3b83497ea2/ux_sZKB9snVPsKRT1TzfG.gif)
 
-## Try Hotshot-XL yourself here: https://www.hotshot.co
+<font size="32">**Try Hotshot-XL yourself here**: https://www.hotshot.co</font>
 
 Hotshot-XL is an AI text-to-GIF model trained to work alongside [Stable Diffusion XL](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0).
 
